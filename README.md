@@ -2,7 +2,7 @@
 
 This analysis was applied to human activity recognition data collected using smartphones.
 The data was obtained from: 
-<a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" /a>
+<a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">HAR dataset.zip/</a>
 
 <ol>
 <li><b>Downloading data</b>: if the file does not yet exist in working directory, download and unzip the files (lines 1 to 9) </li>
